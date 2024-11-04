@@ -1,7 +1,9 @@
 # Zmorph-3D-Printer-instruks
 
+
 ## Startup
 Start med at sikre dig at printerern er sat til strøm og er tændt. Du kan finde tænd knappen på fronten til højre.
+
 ![3DprinterShutdownButton](Images/3DprinterShutdownButton.jpg)
 
 ### Kalibrering
@@ -13,6 +15,7 @@ På hovedskærmen, naviger til "Maintenance" ![Hoved Skærm](Images/MainScreen.j
 Derefter naviger til "Calibrate" ![Maintenance screen](Images/MaintenanceScreen.jpg)
 
 Bemærk, automatisk kalibrering virker ikke nuværende, så vi skal vælge "Manual Calibration" ![Kalibreringsskærm](Images/kalibrationScreen.jpg) 
+
 
 ## Slicer
 For at kunne bruge Zmorph 3D printeren, skal du downloade noget der hedder [Voxelizer](https://zmorph3d.com/software/).
